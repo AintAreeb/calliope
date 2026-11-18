@@ -1,5 +1,5 @@
 // Calliope service worker — offline-first cache for GitHub Pages (/calliope/)
-const CACHE = 'calliope-v2';
+const CACHE = 'calliope-v4';
 const ASSETS = [
   './',
   './index.html',
